@@ -8,3 +8,16 @@ This graph was featured on a numberphile video and inspired me to animate it wit
 </p>
 
 ## The Graphs/Plots
+### The Julia Set
+<p align="center">
+  <img src="images/JuliaSetHot.png"/>
+</p>
+
+<p align="center">
+  <img src="images/JuliaSet.png"/>
+</p>
+
+###The Mandelbrot Set
+<p align="center">
+  <img src="images/MandelbrotSet.gif"/>
+</p>
