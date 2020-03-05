@@ -19,5 +19,5 @@ This graph was featured on a numberphile video and inspired me to animate it wit
 
 ###The Mandelbrot Set
 <p align="center">
-  <img src="images/MandelbrotSet.gif"/>
+  <img src="images/MandelbrotSet.png"/>
 </p>
