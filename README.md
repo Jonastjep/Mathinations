@@ -26,7 +26,7 @@ This graph was featured on a numberphile video and inspired me to animate it wit
   <img src="images/JuliaSet.png"/>
 </p>
 
-###The Mandelbrot Set
+### The Mandelbrot Set
 <p align="center">
   <img src="images/MandelbrotSet.png"/>
 </p>
