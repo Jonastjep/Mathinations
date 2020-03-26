@@ -86,7 +86,7 @@ def submit(text):
 	srecov.reset()
 	stransm.reset()
 axbox = plt.axes([0.25, 0.025, 0.08, 0.04])
-text_box = TextBox(axbox, 'Time Length (resets the sliders) ', initial="40")
+text_box = TextBox(axbox, 'Time Length (resets the sliders) ',color="lightgray", initial="40")
 text_box.on_submit(submit)
 
 ax.axhline(y=0, color='k',linewidth=0.5)
