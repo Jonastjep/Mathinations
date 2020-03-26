@@ -7,7 +7,7 @@ from matplotlib import colors
 
 def julia_image(N,cmap='hot'):
     z = julia_set(N)
-    dpi = 20000
+    dpi = 81
     width = 1+ N//dpi
     height = 1+ N//dpi
     
@@ -41,4 +41,4 @@ def julia_numba(N):
     return T
     
 julia_set = julia_numba
-julia_image(10000)
+julia_image(40000)
