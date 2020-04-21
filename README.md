@@ -1,5 +1,13 @@
 # Mathinations
 ## The animations
+### Quantum Harmonic Oscillators - Wave functions
+
+Graphical representation of three wave functions for a Quantum Harmonic Oscillator.
+
+<p align="center">
+  <img src="animations/QuantHarmOscillator.gif"/>
+</p>
+
 ### Flatten The Curve
 This is a interactive plot, modelling the spread of an infectious disease. This simple model is called SIR (Susceptible, Recovered, Infected) and uses a simple system of ordinary differential equations.
 
